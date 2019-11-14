@@ -1,4 +1,4 @@
-speak_to_grandma
+grandma = "cant hear"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
