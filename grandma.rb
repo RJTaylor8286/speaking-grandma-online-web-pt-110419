@@ -2,7 +2,7 @@ grandma = "cant hear"
 
 if grandma = "cant hear"
   puts "HUH! SPEAK UP SONNY"
-# unless you shout it (type in all capitals).
+
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
