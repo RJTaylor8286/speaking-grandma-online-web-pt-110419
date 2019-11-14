@@ -2,11 +2,12 @@ grandma = "cant hear"
 
 if grandma = "cant hear"
   puts "HUH! SPEAK UP SONNY"
+elsif grandma = "deaf"
+puts "HOW ARE YOU DOING!"
 
-
-# If you shout, she can hear you (or at least she thinks so) 
-# and yells back
-
+if grandma = "can hear"
+  puts "THE WEATHER IS NICE TODAY"
+elsif grandma = "cant"
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
