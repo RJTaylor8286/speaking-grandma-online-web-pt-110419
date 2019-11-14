@@ -8,7 +8,7 @@ if grandma = "can hear"
   puts "THE WEATHER IS NICE TODAY"
 elsif grandma = "cant hear"
 puts "NO! NOT SINCE 1983!"
-else
+elsif
   puts "I LOVE YOU GRANDMA!"
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
+else
 # 'I LOVE YOU TOO PUMPKIN!'
