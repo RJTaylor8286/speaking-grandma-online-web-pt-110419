@@ -1,6 +1,6 @@
 grandma = "cant hear"
 
-# Whatever you say to grandma, she should respond with
+if 
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
